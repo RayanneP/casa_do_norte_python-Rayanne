@@ -16,6 +16,7 @@ Gestão de Estoque:
 
 
 Registrar Movimentações:
+
 <img width="596" height="493" alt="Captura de tela 2025-10-21 095259" src="https://github.com/user-attachments/assets/caa5312c-b7d0-4180-b466-e872564e2444" />
 
 
